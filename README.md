@@ -46,9 +46,9 @@ The project highlights decision-making around trade-offs in performance, scalabi
 <details>
   <summary>Future improvements:</summary>
   <br>
-  - <b>Enhance prediction service:</b> Improve the demand forecasting by incorporating additional features and signals.
-  - <b>Test on real data:</b> Validate the system with real-world data, either through live deployment or realistic datasets.
-  - <b>Add more intelligent services:</b> Introduce new AI-driven functionalities to enhance user experience and decision-making.
-  - <b>Develop additional features:</b> Expand the application with more product-focused functionalities based on user needs and feedback.
+  - <b>Enhance prediction service:</b> Improve the demand forecasting by incorporating additional features and signals. <br>
+  - <b>Test on real data:</b> Validate the system with real-world data, either through live deployment or realistic datasets. <br>
+  - <b>Add more intelligent services:</b> Introduce new AI-driven functionalities to enhance user experience and decision-making. <br>
+  - <b>Develop additional features:</b> Expand the application with more product-focused functionalities based on user needs and feedback. <br>
 </details>
 
