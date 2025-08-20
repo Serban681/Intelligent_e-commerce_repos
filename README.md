@@ -12,6 +12,7 @@ The project highlights decision-making around trade-offs in performance, scalabi
 ## Demo  
 - [Demo Video](https://www.youtube.com/watch?v=UuMRdpRne3s)  
 
+## Project Overview 
 <details>
   <summary>Architecture:</summary>
   <br>
