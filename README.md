@@ -14,19 +14,17 @@ The project highlights decision-making around trade-offs in performance, scalabi
 
 <details>
   <summary>Architecture:</summary>
-
+  <br>
   <img width="664" height="299" alt="image" src="https://github.com/user-attachments/assets/76f8d333-b6c9-477a-8e4e-4f5a7eceb676" />  
-  
-  - Interface: React + Tailwind  
-  - Intermediate Server: Spring  
-  - Demand Forecasting Service:  Flask, PyTorch  
-  - Database: PostgreSQL  
+  <br>
+  - **Interface**: React + Tailwind  
+  - **Intermediate Server:** Spring  
+  - **Demand Forecasting Service:**  Flask, PyTorch  
+  - **Database:** PostgreSQL  
 </details>
 
 <details>
-  <summary>Decision Making:</summary>
-
-  <img width="664" height="299" alt="image" src="https://github.com/user-attachments/assets/76f8d333-b6c9-477a-8e4e-4f5a7eceb676" />  
+  <summary>Decision-Making & Trade-offs:</summary>
   
   - Interface: React + Tailwind  
   - Intermediate Server: Spring  
