@@ -40,7 +40,7 @@ The project highlights decision-making around trade-offs in performance, scalabi
   - <b>Product Stock Management</b> – track and update inventory levels to prevent overselling.<br>
   - <b>Multi-role Users</b> – different roles (admin, customer) with role-specific permissions.<br>
   - <b>Profile Editing</b> – allow users to manage and update their account information.<br>
-  - <b>Order Creation</b> – browse products, add to cart, and place orders.<br>
+  - <b>Order Creation</b> – browse products, add to cart and place orders.<br>
   - <b>Demand Forecasting</b> – generate product demand predictions using time series analysis with neural networks.<br>
 </details>
 
